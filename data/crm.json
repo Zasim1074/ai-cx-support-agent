@@ -1,0 +1,389 @@
+{
+  "customers": [
+    {
+      "id": "CUS-44821",
+      "name": "Marcus Reynolds",
+      "email": "marcus.reynolds@email.com",
+      "tierId": "gold",
+      "memberSince": "2021-01-18",
+      "totalOrders": 47,
+      "totalSpent": 3840,
+      "avatarUrl": "https://i.pravatar.cc/96?img=12"
+    },
+    {
+      "id": "CUS-11104",
+      "name": "Amelia Chen",
+      "email": "amelia.chen@email.com",
+      "tierId": "platinum",
+      "memberSince": "2020-07-04",
+      "totalOrders": 64,
+      "totalSpent": 6125,
+      "avatarUrl": "https://i.pravatar.cc/96?img=47"
+    },
+    {
+      "id": "CUS-20491",
+      "name": "Noah Patel",
+      "email": "noah.patel@email.com",
+      "tierId": "silver",
+      "memberSince": "2022-03-10",
+      "totalOrders": 18,
+      "totalSpent": 1295,
+      "avatarUrl": "https://i.pravatar.cc/96?img=15"
+    },
+    {
+      "id": "CUS-30172",
+      "name": "Priya Shah",
+      "email": "priya.shah@email.com",
+      "tierId": "standard",
+      "memberSince": "2023-08-22",
+      "totalOrders": 7,
+      "totalSpent": 422,
+      "avatarUrl": "https://i.pravatar.cc/96?img=25"
+    },
+    {
+      "id": "CUS-44002",
+      "name": "Ethan Brooks",
+      "email": "ethan.brooks@email.com",
+      "tierId": "gold",
+      "memberSince": "2021-10-09",
+      "totalOrders": 31,
+      "totalSpent": 2540,
+      "avatarUrl": "https://i.pravatar.cc/96?img=8"
+    },
+    {
+      "id": "CUS-50018",
+      "name": "Sofia Garcia",
+      "email": "sofia.garcia@email.com",
+      "tierId": "silver",
+      "memberSince": "2022-11-14",
+      "totalOrders": 16,
+      "totalSpent": 980,
+      "avatarUrl": "https://i.pravatar.cc/96?img=32"
+    },
+    {
+      "id": "CUS-60381",
+      "name": "Liam Johnson",
+      "email": "liam.johnson@email.com",
+      "tierId": "standard",
+      "memberSince": "2024-01-05",
+      "totalOrders": 5,
+      "totalSpent": 315,
+      "avatarUrl": "https://i.pravatar.cc/96?img=3"
+    },
+    {
+      "id": "CUS-72144",
+      "name": "Maya Thompson",
+      "email": "maya.thompson@email.com",
+      "tierId": "gold",
+      "memberSince": "2021-04-29",
+      "totalOrders": 36,
+      "totalSpent": 2878,
+      "avatarUrl": "https://i.pravatar.cc/96?img=39"
+    },
+    {
+      "id": "CUS-81920",
+      "name": "Oliver Smith",
+      "email": "oliver.smith@email.com",
+      "tierId": "standard",
+      "memberSince": "2023-06-02",
+      "totalOrders": 11,
+      "totalSpent": 760,
+      "avatarUrl": "https://i.pravatar.cc/96?img=18"
+    },
+    {
+      "id": "CUS-90031",
+      "name": "Ava Wilson",
+      "email": "ava.wilson@email.com",
+      "tierId": "platinum",
+      "memberSince": "2019-12-11",
+      "totalOrders": 82,
+      "totalSpent": 7920,
+      "avatarUrl": "https://i.pravatar.cc/96?img=44"
+    },
+    {
+      "id": "CUS-10052",
+      "name": "Daniel Kim",
+      "email": "daniel.kim@email.com",
+      "tierId": "silver",
+      "memberSince": "2022-05-19",
+      "totalOrders": 19,
+      "totalSpent": 1164,
+      "avatarUrl": "https://i.pravatar.cc/96?img=11"
+    },
+    {
+      "id": "CUS-12077",
+      "name": "Grace Miller",
+      "email": "grace.miller@email.com",
+      "tierId": "standard",
+      "memberSince": "2024-02-27",
+      "totalOrders": 4,
+      "totalSpent": 208,
+      "avatarUrl": "https://i.pravatar.cc/96?img=41"
+    },
+    {
+      "id": "CUS-13008",
+      "name": "Henry Davis",
+      "email": "henry.davis@email.com",
+      "tierId": "gold",
+      "memberSince": "2020-09-16",
+      "totalOrders": 44,
+      "totalSpent": 3492,
+      "avatarUrl": "https://i.pravatar.cc/96?img=52"
+    },
+    {
+      "id": "CUS-14061",
+      "name": "Nora Brown",
+      "email": "nora.brown@email.com",
+      "tierId": "silver",
+      "memberSince": "2023-01-31",
+      "totalOrders": 21,
+      "totalSpent": 1502,
+      "avatarUrl": "https://i.pravatar.cc/96?img=29"
+    },
+    {
+      "id": "CUS-15043",
+      "name": "Lucas Martinez",
+      "email": "lucas.martinez@email.com",
+      "tierId": "standard",
+      "memberSince": "2022-12-01",
+      "totalOrders": 9,
+      "totalSpent": 546,
+      "avatarUrl": "https://i.pravatar.cc/96?img=6"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-928471",
+      "customerId": "CUS-44821",
+      "productId": "prod-headphones-sony-xm5",
+      "purchaseDate": "2024-11-28",
+      "deliveryDate": "2024-12-02",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 249.99,
+      "condition": "defective",
+      "issueDescription": "Left earbud stopped working after 2 days.",
+      "used": false
+    },
+    {
+      "id": "ORD-340102",
+      "customerId": "CUS-11104",
+      "productId": "prod-keyboard-k8",
+      "purchaseDate": "2024-12-01",
+      "deliveryDate": "2024-12-05",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 89.99,
+      "condition": "unopened",
+      "issueDescription": "Customer ordered the wrong keyboard layout.",
+      "used": false
+    },
+    {
+      "id": "ORD-778910",
+      "customerId": "CUS-20491",
+      "productId": "prod-ebook-design",
+      "purchaseDate": "2024-12-10",
+      "deliveryDate": "2024-12-10",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 29,
+      "condition": "downloaded",
+      "issueDescription": "Customer no longer needs the ebook.",
+      "used": true
+    },
+    {
+      "id": "ORD-112390",
+      "customerId": "CUS-30172",
+      "productId": "prod-gift-card-100",
+      "purchaseDate": "2024-12-03",
+      "deliveryDate": "2024-12-03",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 100,
+      "condition": "unused",
+      "issueDescription": "Recipient already had a gift card.",
+      "used": false
+    },
+    {
+      "id": "ORD-661420",
+      "customerId": "CUS-44002",
+      "productId": "prod-running-shoes",
+      "purchaseDate": "2024-10-20",
+      "deliveryDate": "2024-10-24",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 129,
+      "condition": "worn",
+      "issueDescription": "Shoes are uncomfortable after several runs.",
+      "used": true
+    },
+    {
+      "id": "ORD-819200",
+      "customerId": "CUS-50018",
+      "productId": "prod-yoga-mat",
+      "purchaseDate": "2024-12-04",
+      "deliveryDate": "2024-12-07",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 58.5,
+      "condition": "unused",
+      "issueDescription": "Mat arrived with a small tear on the edge.",
+      "used": false
+    },
+    {
+      "id": "ORD-510712",
+      "customerId": "CUS-60381",
+      "productId": "prod-watch-se",
+      "purchaseDate": "2024-11-19",
+      "deliveryDate": "2024-11-23",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 219.99,
+      "condition": "used",
+      "issueDescription": "Customer prefers a larger watch size.",
+      "used": true
+    },
+    {
+      "id": "ORD-200384",
+      "customerId": "CUS-72144",
+      "productId": "prod-coffee-maker",
+      "purchaseDate": "2024-11-30",
+      "deliveryDate": "2024-12-04",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 74.95,
+      "condition": "defective",
+      "issueDescription": "Machine leaks water from the base.",
+      "used": false
+    },
+    {
+      "id": "ORD-913020",
+      "customerId": "CUS-81920",
+      "productId": "prod-monitor-27",
+      "purchaseDate": "2024-11-11",
+      "deliveryDate": "2024-11-15",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 199.99,
+      "condition": "unopened",
+      "issueDescription": "Purchased the wrong screen size.",
+      "used": false
+    },
+    {
+      "id": "ORD-501877",
+      "customerId": "CUS-90031",
+      "productId": "prod-backpack",
+      "purchaseDate": "2024-12-08",
+      "deliveryDate": "2024-12-11",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 64,
+      "condition": "unused",
+      "issueDescription": "Color was different than expected.",
+      "used": false
+    },
+    {
+      "id": "ORD-191020",
+      "customerId": "CUS-10052",
+      "productId": "prod-keyboard-k8",
+      "purchaseDate": "2024-11-18",
+      "deliveryDate": "2024-11-22",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 89.99,
+      "condition": "defective",
+      "issueDescription": "Several keys do not register consistently.",
+      "used": false
+    },
+    {
+      "id": "ORD-455100",
+      "customerId": "CUS-12077",
+      "productId": "prod-yoga-mat",
+      "purchaseDate": "2024-12-12",
+      "deliveryDate": "2024-12-14",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 58.5,
+      "condition": "unused",
+      "issueDescription": "Customer wants a thicker mat.",
+      "used": false
+    },
+    {
+      "id": "ORD-770241",
+      "customerId": "CUS-13008",
+      "productId": "prod-monitor-27",
+      "purchaseDate": "2024-12-02",
+      "deliveryDate": "2024-12-06",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 199.99,
+      "condition": "defective",
+      "issueDescription": "Screen has a vertical green line.",
+      "used": false
+    },
+    {
+      "id": "ORD-606801",
+      "customerId": "CUS-14061",
+      "productId": "prod-coffee-maker",
+      "purchaseDate": "2024-11-29",
+      "deliveryDate": "2024-12-03",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 74.95,
+      "condition": "used",
+      "issueDescription": "Customer does not like the brew strength.",
+      "used": true
+    },
+    {
+      "id": "ORD-902715",
+      "customerId": "CUS-15043",
+      "productId": "prod-headphones-sony-xm5",
+      "purchaseDate": "2024-11-26",
+      "deliveryDate": "2024-12-01",
+      "status": "Delivered",
+      "quantity": 1,
+      "total": 249.99,
+      "condition": "defective",
+      "issueDescription": "Bluetooth connection drops frequently.",
+      "used": false
+    }
+  ],
+  "refundHistory": [
+    {
+      "id": "REF-10001",
+      "customerId": "CUS-44821",
+      "orderId": "ORD-700120",
+      "createdAt": "2023-09-18T09:30:00.000Z",
+      "status": "approved",
+      "amount": 39.99,
+      "reason": "Wrong size"
+    },
+    {
+      "id": "REF-10002",
+      "customerId": "CUS-20491",
+      "orderId": "ORD-778910",
+      "createdAt": "2024-12-11T13:15:00.000Z",
+      "status": "denied",
+      "amount": 0,
+      "reason": "Digital products are not refundable"
+    },
+    {
+      "id": "REF-10003",
+      "customerId": "CUS-44002",
+      "orderId": "ORD-661420",
+      "createdAt": "2024-11-02T16:45:00.000Z",
+      "status": "denied",
+      "amount": 0,
+      "reason": "Outside refund window and used product"
+    },
+    {
+      "id": "REF-10004",
+      "customerId": "CUS-10052",
+      "orderId": "ORD-191020",
+      "createdAt": "2024-11-24T11:10:00.000Z",
+      "status": "approved",
+      "amount": 89.99,
+      "reason": "Defective keyboard"
+    }
+  ]
+}

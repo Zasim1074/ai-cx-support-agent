@@ -1,0 +1,26 @@
+[
+  {
+    "id": "standard",
+    "name": "Standard",
+    "priorityMultiplier": 1,
+    "benefits": ["Standard refund review"]
+  },
+  {
+    "id": "silver",
+    "name": "Silver",
+    "priorityMultiplier": 1.1,
+    "benefits": ["Priority support queue"]
+  },
+  {
+    "id": "gold",
+    "name": "Gold",
+    "priorityMultiplier": 1.25,
+    "benefits": ["Priority support queue", "Courtesy return label"]
+  },
+  {
+    "id": "platinum",
+    "name": "Platinum",
+    "priorityMultiplier": 1.5,
+    "benefits": ["Priority support queue", "Courtesy return label", "Human review escalation"]
+  }
+]

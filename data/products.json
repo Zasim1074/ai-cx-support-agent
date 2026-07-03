@@ -1,0 +1,82 @@
+[
+  {
+    "id": "prod-headphones-sony-xm5",
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "type": "physical",
+    "price": 249.99,
+    "refundable": true
+  },
+  {
+    "id": "prod-keyboard-k8",
+    "name": "Keychron K8 Mechanical Keyboard",
+    "category": "Electronics",
+    "type": "physical",
+    "price": 89.99,
+    "refundable": true
+  },
+  {
+    "id": "prod-running-shoes",
+    "name": "AeroRun Daily Trainers",
+    "category": "Footwear",
+    "type": "physical",
+    "price": 129.0,
+    "refundable": true
+  },
+  {
+    "id": "prod-yoga-mat",
+    "name": "Studio Grip Yoga Mat",
+    "category": "Fitness",
+    "type": "physical",
+    "price": 58.5,
+    "refundable": true
+  },
+  {
+    "id": "prod-ebook-design",
+    "name": "Digital UX Design Handbook",
+    "category": "Books",
+    "type": "digital",
+    "price": 29.0,
+    "refundable": false
+  },
+  {
+    "id": "prod-gift-card-100",
+    "name": "$100 Store Gift Card",
+    "category": "Gift Cards",
+    "type": "gift_card",
+    "price": 100.0,
+    "refundable": false
+  },
+  {
+    "id": "prod-watch-se",
+    "name": "Apple Watch SE Sport Band",
+    "category": "Wearables",
+    "type": "physical",
+    "price": 219.99,
+    "refundable": true
+  },
+  {
+    "id": "prod-coffee-maker",
+    "name": "BrewPro Compact Coffee Maker",
+    "category": "Kitchen",
+    "type": "physical",
+    "price": 74.95,
+    "refundable": true
+  },
+  {
+    "id": "prod-monitor-27",
+    "name": "ViewBright 27-inch Monitor",
+    "category": "Electronics",
+    "type": "physical",
+    "price": 199.99,
+    "refundable": true
+  },
+  {
+    "id": "prod-backpack",
+    "name": "CityLine Travel Backpack",
+    "category": "Travel",
+    "type": "physical",
+    "price": 64.0,
+    "refundable": true
+  }
+]

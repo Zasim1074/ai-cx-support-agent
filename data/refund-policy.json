@@ -1,0 +1,19 @@
+{
+  "id": "electronics-return-policy-v2.4",
+  "name": "Refund Policy",
+  "version": "2.4",
+  "evaluationDate": "2024-12-15T10:14:00.000Z",
+  "currency": "USD",
+  "rules": {
+    "refundWindowDays": 30,
+    "productMustBeUnusedOrDefective": true,
+    "digitalProductsRefundable": false,
+    "giftCardsRefundable": false,
+    "maxRefundsPerOrder": 1
+  },
+  "processingTimeline": {
+    "approvalReviewHours": 24,
+    "refundBusinessDaysMin": 3,
+    "refundBusinessDaysMax": 5
+  }
+}
